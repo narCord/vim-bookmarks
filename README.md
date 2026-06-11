@@ -22,7 +22,7 @@ Ventana flotante con comandos.
 
 ## Instalación
 Con lazyvim:
-´´´lua
+```lua
 return {
   "yourusername/bookmarks.nvim",
   lazy = false,
