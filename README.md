@@ -21,7 +21,7 @@ Ventana flotante con comandos.
 \<lider\> + bd: Borra el bookmark de la linea donde está el cursor.
 
 ## Instalación
-Con lazyvim:
+Con Lazy.nvim:
 ```lua
 return {
   "yourusername/bookmarks.nvim",
