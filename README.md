@@ -5,7 +5,7 @@ Muestra un icono en las lineas bookmarkeadas.
 
 <img width="248" height="43" alt="Screenshot_20260611_182433" src="https://github.com/user-attachments/assets/845ae694-1129-4f57-89d7-cf502f22f5ce" />  
 
-<br><br>
+<br>
 
 Ventana flotante con comandos.
 
