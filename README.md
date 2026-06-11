@@ -22,6 +22,7 @@ Ventana flotante con comandos.
 
 ## Instalación
 Con lazyvim:
+<div style="max-height: 150px; overflow-y: auto;">
 ```lua
 return {
   "yourusername/bookmarks.nvim",
